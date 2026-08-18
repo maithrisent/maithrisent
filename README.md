@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Maithri!</h1>
 <h3 align="center">Computer Science Student</h3>
 
-- ✉️ [My Portfolio](https://github.com/maithrisent/portfolio_page)
+- ✉️ [My Portfolio](https://maithrisent.github.io/portfolio_page/)
 
 - 🗺️ [World Happiness Report Analysis ](https://github.com/maithrisent/world-happiness-report-2017)
 
